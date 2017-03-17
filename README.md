@@ -1,0 +1,1 @@
+Replica of the game “Minesweeper”. Implemented in MIPS Assembly. Portions of main memory are mapped to each individual cell as a form of MMIO (Memory Mapped IO) to allow data to be shown on the screen. The display operates similarly to a VT100 where ANSI specifies the colors in each node.
